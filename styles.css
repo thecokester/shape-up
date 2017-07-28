@@ -1,0 +1,43 @@
+/*.box {
+    background-color: lightgrey;
+    width: 600px;
+    height: 600px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}*/
+
+.card {
+  background: forestgreen;
+  border-radius: 20px;
+  height: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  opacity: 0.5;
+}
+
+h1 {
+    margin-left: 100px;
+   
+}
+
+form {
+    display: block;
+    margin-top: -14em;
+}
+
+/*div {background: violet;
+  border-radius: 20px;
+  height: 600px;
+  width: 600px;
+
+}*/
+
+body {
+   background: url('http://wallpapercave.com/wp/kDBfZs5.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
