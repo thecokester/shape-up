@@ -7,32 +7,38 @@
     margin: 25px;
 }*/
 
-.card {
-  background: forestgreen;
-  border-radius: 20px;
-  height: 600px;
-  margin-left: auto;
-  margin-right: auto;
-  width: 600px;
-  opacity: 0.5;
-}
-
-h1 {
-    margin-left: 100px;
-   
+.field {
+    height: 600px;
+    width: 600px;
+    background-color: goldenrod;
+    margin-top: 50px;
+    float: right
 }
 
 form {
     display: block;
-    margin-top: -14em;
 }
 
-/*div {background: violet;
-  border-radius: 20px;
-  height: 600px;
-  width: 600px;
 
-}*/
+.square {
+    background: aliceblue;
+}
+
+.rectangle {
+    background: tomato
+    ;
+}
+
+.triangle {
+    border-top: 100px solid rgb(239,252,107);
+    border-left: 100px solid transparent;
+}
+.circle {
+    background: rgb(134,43,146);
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50%;
+}
 
 body {
    background: url('http://wallpapercave.com/wp/kDBfZs5.jpg');
@@ -41,3 +47,4 @@ body {
     
 
 }
+
